@@ -123,7 +123,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Tutorials and blogs that explain threat modeling*
 
-- [Threat Modeling: What, Why, and How?](https://misti.com/infosec-insider/threat-modeling-what-why-and-how)
+- [Threat Modeling: What, Why, and How?](https://web.archive.org/web/20210301185540/https://misti.com/infosec-insider/threat-modeling-what-why-and-how)
 
 - [Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/sei_blog/2018/12/threat-modeling-12-available-methods.html)
 
